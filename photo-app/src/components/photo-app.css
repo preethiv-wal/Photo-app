@@ -1,0 +1,48 @@
+.new-photo-parent {
+    display: flex;
+    justify-content: center;
+}
+.new-photo {
+    background-color: green;
+    color: white;
+    width: 140px;
+    height: 45px;
+    font-size: 19px;
+    border-radius: 9px;
+    margin-bottom: 20px;
+    border-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+}
+.photo-card{
+    width: 280px;
+    height: 480px;
+    margin-bottom: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+.list-group {
+    width: 800px;
+    margin-left: 350px;
+}
+.inputs{
+    margin-bottom: 10px;
+}
+.inputs input{
+    width : 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
+.inputs label{
+    color: green;
+    font-size: 18px;
+}
+.form-heading{
+    color: darkred;
+}
+.pagination {
+   margin-left: 300px;
+}

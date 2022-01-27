@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction:row;
+    background-color: darkblue;
+    height: 50px;
+    align-items: center;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
+.link {
+    text-decoration: none;
+    padding: 15px;
+    color:white;
+    font-size: 18px;
+}
